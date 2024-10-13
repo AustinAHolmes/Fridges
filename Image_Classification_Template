@@ -1,0 +1,17 @@
+SocioeconomicClass_Race.jpg
+
+Ex. lower_white.jpg, middle_black.jpg, lower_asian.jpg, upper_mena.jpg, middle_nhpi.jpg
+
+Race Categories:
+-    American Indian or Alaska Native. (native)
+-    Asian. (asian)
+-    Black or African American. (black)
+-    Hispanic or Latino (hispaniclatino)
+-    Middle Eastern or North African (mena)
+-    Native Hawaiian or Pacific Islander (nhpi)
+-    White. (white)
+
+Socioeconomic Categories:
+-    Upper Class (upper)
+-    Middle Class (middle)
+-    Lower Class (lower)
